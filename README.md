@@ -41,7 +41,7 @@ Lista de Tarefa
 
 - [x] Executar tarefa
     
-[Acesse minah Página[(www.cccpm.mar.mil.br)
+
 
 Numero | Nome | Nota
 ---|---|---
